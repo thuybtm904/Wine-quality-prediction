@@ -1,5 +1,9 @@
 # Ứng dụng dự đoán chất lượng rượu vang
 
+## Giới thiệu
+
+Sử dụng framework python Streamlit để xây dựng một web app tương tác có giao diện đơn giản, thân thiện với người dùng, cho phép dự đoán chất lượng rượu vang bằng mô hình Linear Regression hoặc Random Forest.
+
 ## Tính năng
 
 - Tải lên và xem trước dữ liệu CSV
