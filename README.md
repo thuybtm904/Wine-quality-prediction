@@ -12,8 +12,6 @@
 streamlit run app.py
 ```
 
-Ứng dụng sẽ được chạy tại http://127.0.0.1:8000
-
 ## Cách sử dụng
 
 1. Tải lên tệp CSV chứa dữ liệu rượu vang hoặc nhập các số liệu từ bàn phím
